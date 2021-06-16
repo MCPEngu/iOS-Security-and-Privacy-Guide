@@ -109,9 +109,10 @@ If you don't use certain iCloud features, you should turn them **off**. If possi
 - Check for Apple Pay: Off
 
 ## Apps
+- Lockdown
 
 ### Content Blockers
-TODO
+- AdGuard
 
 ## Additional resources
 
